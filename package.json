@@ -1,0 +1,24 @@
+{
+  "name": "simple-cli-nodejs",
+  "version": "1.0.0",
+  "description": "Simple CLI game (heads or tails) on the NodeJS includes including log analyzer",
+  "main": "eagle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node eagle.js",
+    "stat" : "node statistics.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksLykov/simple-CLI-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksLykov/simple-CLI-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AleksLykov/simple-CLI-NodeJS#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
