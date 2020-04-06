@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/AleksLykov/simple-CLI-NodeJS#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   }
 }
